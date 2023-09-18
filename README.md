@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-mishra31&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-mishra31" /> </p>
-
 - 🌱 I’m currently learning **React , Node_Js , Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Mishra31](https://github.com/Abhishek-Mishra31)
@@ -15,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/abhishe09449303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe09449303" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
+<a href="https://fb.com/abhîshēk míshrã" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhîshēk míshrã" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_a_b_h_i__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_a_b_h_i__" height="30" width="40" /></a>
 </p>
 
