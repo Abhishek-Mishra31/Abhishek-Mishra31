@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **My_NoteBook**
+- 🔭 I’m currently working on **My_Shopify (E-COMMERCE )**
 
-- 🌱 I’m currently learning **React , Node_Js , Express**
+- 🌱 I’m currently learning **Next-Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Mishra31](https://github.com/Abhishek-Mishra31)
 
