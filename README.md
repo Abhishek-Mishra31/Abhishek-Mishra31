@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My_Shopify (E-COMMERCE )**
 
-- 🌱 I’m currently learning **Next-Js**
+- 🌱 I’m currently learning **Node-js , SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Mishra31](https://github.com/Abhishek-Mishra31)
 
