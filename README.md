@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with openAuth_API's<br>👯 I’m looking to collaborate on current project deployment (Scrapping_app)<br>🤝 I’m looking for help with Backend_Devs<br>🌱 I’m currently learning Next.JS<br>💬 Ask me about API_Development<br>
+🔭 I’m currently working with Web-Scraping<br>👯 I’m looking to collaborate on current project deployment (Scrapping_app)<br>🤝 I’m looking for help with Devops_Support<br>🌱 I’m currently learning Real-Time API creation<br>💬 Ask me about API_Development<br>
 
 
 ## 🌐 Socials:
