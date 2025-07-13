@@ -3,11 +3,12 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/async.bytes_/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24866623/adon-kaden)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mishra-192006209/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_AsyncBytes_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhishek_Kumar3108/)
+
+[![Instagram: @async.bytes_](https://img.shields.io/badge/@async.bytes_-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/async.bytes_/)
+[![Stack Overflow: adon-kaden](https://img.shields.io/badge/adon--kaden-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24866623/adon-kaden)
+[![LinkedIn: Abhishek_Mishra](https://img.shields.io/badge/Abhishek__Mishra-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mishra-192006209/)
+[![X: @_AsyncBytes_](https://img.shields.io/badge/@_AsyncBytes_-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_AsyncBytes_)
+[![LeetCode: Abhishek_Kumar3108](https://img.shields.io/badge/Abhishek__Kumar3108-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhishek_Kumar3108/)
 
 
 # 💻 Tech Stack:
